@@ -1,0 +1,28 @@
+{
+  "name": "angular-uirouter-demo",
+  "version": "0.1.0",
+  "description": "Demo of SPA using AngularJS 1.6 and UI-Router.",
+  "main": "server.js",
+  "repository": "https://github.com/PoorPolonius/angular-uirouter-demo.git",
+  "author": "PoorPolonius",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.11",
+    "angular": "^1.6.5",
+    "angular-sanitize": "^1.6.5",
+    "async": "~0.2.8",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "html-loader": "^0.5.1",
+    "less": "^2.7.2",
+    "webpack": "^3.5.4",
+    "webpack-stream": "^4.0.0"
+  }
+}
